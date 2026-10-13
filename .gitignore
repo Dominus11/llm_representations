@@ -1,0 +1,5 @@
+# Python Environment & Dependencies
+.venv
+
+# Environments & Secrets
+.env
